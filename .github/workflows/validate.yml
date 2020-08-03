@@ -34,7 +34,7 @@ jobs:
     - name: Build
       run: bundle exec jekyll build
     - name: HTMLProofer
-      run: bundle exec htmlproofer ./_site --internal-domains=yips.yearn.finance --check-html --check-opengraph --report-missing-names --log-level=:debug --assume-extension --empty-alt-ignore --timeframe=6w --url-ignore=/YIPS/yip-0 --disable-external
+      run: bundle exec htmlproofer ./_site --internal-domains=yips.yfii.finance --check-html --check-opengraph --report-missing-names --log-level=:debug --assume-extension --empty-alt-ignore --timeframe=6w --url-ignore=/YIPS/yip-0 --disable-external
     - name: GH Pages Healthcheck
       run: bundle exec github-pages health-check
     - name: yip_validator
