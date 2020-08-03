@@ -2,9 +2,9 @@
 yip: 0
 title: YIP Purpose and Guidelines
 status: Implemented
-author: yEarn Community
-discussions-to: https://gov.yearn.finance/
-created: 2020-07-22
+author: yfii Community
+discussions-to: https://gov.yfii.finance/
+created: 2020-08-03
 updated: N/A
 ---
 
