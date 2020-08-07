@@ -1,5 +1,5 @@
 ---
-yip: <to be assigned>
+yip: 3
 title: 建立 YFII Vault 策略 ForTube（Creating YFII's Vault Strategy ForTube)
 status: WIP
 author: David Lei (@Master-LY) from ForTube team
