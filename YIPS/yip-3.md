@@ -15,13 +15,9 @@ YFII 目前拥有 Comp、AAVE 等底层备选策略，以提供给YFII用户最�
 
 ForTube产品官网：[https://for.tube](https://for.tube)
 
-</br>
-
 YFII currently has alternative underlying strategies such as Comp, AAVE, etc. to provide YFII subscribers with the best returns, this proposal proposes that YFII add ForTube as an underlying strategy, by accessing ForTube, YFII subscribers will have access to deposit revenue from ForTube, as well as access to the ForTube Yield Farming for additional revenue.
 
 ForTube product website: [https://for.tube](https://for.tube)
-
-</br>
 
 ## ForTube 的介绍及优势 (Introduction and advantage of ForTube)
 
@@ -31,9 +27,9 @@ ForTube product website: [https://for.tube](https://for.tube)
 
 2. 注重安全。ForTube 团队在正式推出产品之前，自己的项目都是逐条代码进行开发，每一个智能合约都是经过专业机构审计的，慢雾科技和 CertiK 是 ForTube 目前在 DeFi 服务中的代码审计合作伙伴。ForTube 的代码开源，大家可以查看代码库和审计报告。
 
-代码库链接：[https://github.com/thefortube](https://github.com/thefortube);
+    代码库链接：[https://github.com/thefortube](https://github.com/thefortube);
 
-审计报告：[https://for.tube/ForTube%20CertiK%20Report.pdf](https://for.tube/ForTube%20CertiK%20Report.pdf)
+    审计报告：[https://for.tube/ForTube%20CertiK%20Report.pdf](https://for.tube/ForTube%20CertiK%20Report.pdf)
 
 3. 目前较高的流动性挖矿收益。ForTube 挖矿的年化收益可以通过这个链接查询：[http://store.dappbirds.com/activity/yield-farming](http://store.dappbirds.com/activity/yield-farming)
 
@@ -41,17 +37,15 @@ ForTube product website: [https://for.tube](https://for.tube)
 
 5. 勤劳友好的开发团队。ForTube 团队愿意用产品和服务支持每一个用户，团队的每一个人都全心全意的支持用户和战略合作伙伴。
 
-</br>
-
 As a fast-growing Chinese project, ForTube successfully reach 10M USD locked value in its product recently. Compared with current lending service product such as Compound and AAVE, ForTube has some unique advantages:
 
 1. First DeFi project with a friendly strategy in Asia market. We support Asia oriented crypto assets such as HBTC, OKB, HT, BUSD, HUSD, etc. for deposit and lending, the dev team of ForTube has a deep connection with Bitcoin miners in China, which is ForTube's advantage to bring more Bitcoin miners into DeFi space through assets like HBTC.
 
 2. Security-focused. ForTube team develop their own project line by line before officially launch the product, every smart contract is audited, SlowMist and CertiK are currently the audit partners in DeFi service of ForTube. Their source code is opened to public, everyone can check for the codebase and audit report.
 
-Codebase link: [https://github.com/thefortube](https://github.com/thefortube);
+    Codebase link: [https://github.com/thefortube](https://github.com/thefortube);
 
-Audit report:[https://for.tube/ForTube%20CertiK%20Report.pdf](https://for.tube/ForTube%20CertiK%20Report.pdf)
+    Audit report:[https://for.tube/ForTube%20CertiK%20Report.pdf](https://for.tube/ForTube%20CertiK%20Report.pdf)
 
 3. High yield farming rewards. The APY of ForTube's yield farming can be checked through this link: [http://store.dappbirds.com/activity/yield-farming](http://store.dappbirds.com/activity/yield-farming)
 
@@ -59,17 +53,11 @@ Audit report:[https://for.tube/ForTube%20CertiK%20Report.pdf](https://for.tube/F
 
 5. Hard-working and friendly dev team. ForTube team is willing to support every user with the product and service, from the founders to everyone in ForTube team are ready to support the users and strategic partners.
 
-</br>
-
 ## ForTube 策略符合 YFII 的策略取向 （The ForTube strategy is consistent with YFII's strategic approach.）
 
 在YIP-1里，提案表示“ YFII Vault 会采用更贴近中国市场特色的策略，来优化用户收益”。而 ForTube 从借贷池的设置，到底层资产的选择，再到客户群的获取方式（大量比特币矿工），都充分体现了对中国市场的尊重和优化。因此，接入 ForTube 作为底层资产池，将有助于提高 YFII 的中国市场特色，为用户提供额外的收益。
 
-</br>
-
 In YIP-1, the proposal states that "YFII Vault will adopt the strategies which adapt to the Chinese defi market". The ForTube, from the setup of the lending pool, to the selection of the underlying assets, to the way the customer base is acquired (a large number of Bitcoin miners in China), is fully respectful and optimized for the Chinese market. Therefore, access to ForTube as the underlying asset pool will help enhance YFII's Chinese DeFi market share and provide additional benefits to YFII users.
-
-</br>
 
 ## ForTube 的进一步介绍 （Further introductions）
 
@@ -83,8 +71,6 @@ ForTube 产品介绍：[https://cn.docs.for.tube/](https://cn.docs.for.tube/)
 
 ForTube 流动性挖矿指南：[https://cn.docs.for.tube/users-guide/mining](https://cn.docs.for.tube/users-guide/mining)
 
-</br>
-
 ForTube website and the yield farming access: [https://for.tube/](https://for.tube/)
 
 Currently supported mobile wallets: Coinbase wallet, Trust wallet, MYKEY, imToken, Bitpie, DappBirds, TokenPocket, Huobi wallet. Users can access ForTube from the Dapp section or by typing for.tube into the built-in DApp browser.
@@ -94,8 +80,6 @@ PC users: After installing the MetaMask wallet using Google Chrome, go to the Fo
 ForTube Product Description: [https://cn.docs.for.tube/](https://cn.docs.for.tube/)
 
 ForTube Yield Farming Guide: [https://cn.docs.for.tube/users-guide/mining](https://cn.docs.for.tube/users-guide/mining)
-
-</br>
 
 ### 后续工作 （Following works）
 
