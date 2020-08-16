@@ -48,11 +48,11 @@ The first three items are the same as Option 1, without the final 3% destruction
 
 ## Community discussion opinions
 
-![Alt text](https://uploader.shimo.im/f/HS7GnmmkPWF1bZeB.png!thumbnail)
+![](assets/yip4-1.png)
 
 After discussion in the community, the application for the first scheme currently has the highest number of votes, but the community has conflicts about dividends and destruction, so they discussed again and launched a vote again. The screenshot of the vote is as follows: 
 
-![Alt text](https://uploader.shimo.im/f/BUYpQmtUxjVQvB8f.png!thumbnail)
+![](assets/yip4-2.png)
 
 ## Finalize the proposal
 
