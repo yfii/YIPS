@@ -1,6 +1,7 @@
 ---
 yip: 5
 title: Allocate 5% of rewards to create a $1million rewards pool for YFII farmers
+status: WIP
 author: Sabretooth
 discussions-to: https://gov.yfii.finance/t/allocate-5-of-rewards-to-create-a-1million-rewards-pool-for-yfii-farmers/331
 created: 2020-08-30
