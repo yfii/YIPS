@@ -47,4 +47,14 @@ The distribution of YFII rewards pool will thus be;
 5% YFII rewards pool
 5% Dev+Community growth pool
 
+When Rewards pool reaches $1 million USD, the devpool will have $1millionUSD in funds, the insurance pool will have $200k, and $200k will have been awarded for Gas claims.
 
+## Rationale
+
+The 3% token burn pool serves to remove supply thus adding to scarcity of tokens. The disadvantage of a token burn is that this cannot be undone, once a token is burned, it can never be unburned, hence it’s a one way token design.
+
+Rather than token burn, the proposal is that 5% of rewards be staked in treasury, to be automatically triggered to release when the rewards pool reaches $1million USD
+
+This will create a whole new hype cycle and increase TVL under DFI.money, it will bring new members into the YFII community, and it will increase YFII price.
+
+This will position YFII as the leading farming protocol in the world, the problem with farming is that when a protocol is new, there are lots of risks associated with it, price risk, smart contract risk, founder risk, community risk, etc…. However when a protocol is mature and the risks are decreased, the farming rewards are not high anymore. This proposal positions YFII in the role of a mature farming protocol but with periodic ultra-high APY farming yields to grow its community.
