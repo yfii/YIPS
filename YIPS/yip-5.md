@@ -45,9 +45,9 @@ The distribution of YFII rewards pool will thus be;
 1% Gas incentive
 1% Insurance
 5% YFII rewards pool
-5% Dev+Community growth pool
+3% Dev+Community growth pool
 
-When Rewards pool reaches $1 million USD, the devpool will have $1millionUSD in funds, the insurance pool will have $200k, and $200k will have been awarded for Gas claims.
+When Rewards pool reaches $1 million USD, the devpool will have $600kUSD in funds, the insurance pool will have $200k, and $200k will have been awarded for Gas claims.
 
 ## Rationale
 
